@@ -1,1 +1,1 @@
-# OpeMutt
+# OpenMutt
